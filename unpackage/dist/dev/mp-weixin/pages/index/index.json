@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "易分宝",
+  "usingComponents": {
+    "search-input": "/components/com-SearchInput"
+  }
+}
